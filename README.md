@@ -7,7 +7,7 @@ Hello! I'm Sk Sayan, an aspiring developer passionate about technology and innov
 - 🌍 **Location:** West Bengal, India
 - 🎓 **Education:** Currently studying at Thapar University in Patiala
 - 💬 **Languages:** Bengali, Hindi, English
-- 🌱 **Interests:** Coding, Literature, Cultural Studies
+- 🌱 **Interests:** Coding, Reading Books, Cafe Hopping
 
 ## Contact Me
 
